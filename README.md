@@ -45,6 +45,7 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=narayan-dev26&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 ## 🐍 GitHub Contribution Snake
 
 <p align="center">

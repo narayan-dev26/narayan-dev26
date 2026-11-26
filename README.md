@@ -45,6 +45,11 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=narayan-dev26&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## 🐍 GitHub Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/narayan-dev26/narayan-dev26/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
